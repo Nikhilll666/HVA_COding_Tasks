@@ -10,9 +10,14 @@
 # Yes
 
 
-# arr = [11 ,1 ,13 ,21 ,3 ,7]
-# i,length = 0, len(arr)-1
-# while i<=length//2:
-#     if arr[i] == arr[length-i]:
-#         count += 1
-    
+arr = [17 ,1 ,13 ,12 ,1 ,17]
+i,length,count = 0, len(arr)-1,0
+while i<=length//2:
+    if arr[i] == arr[length-i]:
+        count += 1
+    i += 1
+if count-1 == length//2:
+    print("Yes")
+else:
+    print("No")
+
