@@ -6,4 +6,4 @@ while i<n:
     print(a, end =" ")
     i += 1
     a += 2
-print('\n')
+print()

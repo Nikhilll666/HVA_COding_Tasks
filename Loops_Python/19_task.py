@@ -7,4 +7,4 @@ while i<=n:
     print(ans, end =" ")
     i += 1
     ans *= 2
-print('\n')
+print()

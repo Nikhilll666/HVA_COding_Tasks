@@ -9,4 +9,4 @@ i = 0
 while i<len(arr):
     print((arr[i])**2, end = " ")
     i += 1
-print('\n')
+print()

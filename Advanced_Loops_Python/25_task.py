@@ -8,4 +8,4 @@ while i<n:
     print(a,end = " ")
     a,b = b,a+b
     i += 1
-print('\n')
+print()

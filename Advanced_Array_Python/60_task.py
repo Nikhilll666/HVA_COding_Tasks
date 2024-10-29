@@ -5,6 +5,3 @@
 # 0 7
 
 arr = [5 ,4 ,7 ,8 ,4 ,6 ,11 ,9]
-i,max,min = 0,0,0
-while i<len(arr):
-    

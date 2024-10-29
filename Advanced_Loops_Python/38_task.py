@@ -16,4 +16,4 @@ while gretcount<n:
         gretcount += 1
         print(i,end = " ")
     i += 1
-print('\n')
+print()
